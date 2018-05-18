@@ -10,5 +10,5 @@ $ cd chatroom
 $ mix phoenix.server
 ```
 <br>and you can see the program in your browser on `localhost:4000`<br>
-This is what it looks like:
+This is what it looks like:<br>
 <img src="./img.png?raw=true" height="400">
