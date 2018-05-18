@@ -9,4 +9,6 @@ you can run it by:<br>
 $ cd chatroom 
 $ mix phoenix.server
 ```
-<br>and you can see the program in your browser on `localhost:4000`
+<br>and you can see the program in your browser on `localhost:4000`<br>
+This is what it looks like:
+<img src="./img.png?raw=true" height="400">
